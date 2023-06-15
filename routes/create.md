@@ -14,5 +14,5 @@ meta:
     - property: og:description
       content: Create a Widget for your ERC20 or BEP20 Token. Enter your ERC20 or BEP20 Token details, create a Widget and share it with your users.
     - property: og:url
-      content: https://vittominacori.github.io/watch-token/create/
+      content: https://gamnetic.github.io/gamic/create/
 ---
