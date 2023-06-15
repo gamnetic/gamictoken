@@ -11,7 +11,7 @@ meta:
     - property: og:description
       content: Create a Widget for your ERC20 or BEP20 Token and share it with your users. Add your Token to DApp browsers or MetaMask both on Ethereum, Binance Smart Chain or Polygon Network.
     - property: og:url
-      content: https://vittominacori.github.io/watch-token/
+      content: https://gamnetic.github.io/gamic/
 ---
 
 # WatchToken
@@ -22,7 +22,7 @@ Enter your ERC20 or BEP20 Token details, create a Widget and share it with your 
 
 ## Try it
 
-https://vittominacori.github.io/watch-token/
+https://gamnetic.github.io/gamic/
 
 ## License
 
